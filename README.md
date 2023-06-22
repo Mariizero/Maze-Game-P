@@ -1,10 +1,16 @@
 # Maze-Game-P
- Jogo Labirinto de Mestrado do Paulo
+ Jogo MAZE 
 
+ A segui o passo a passo para extrair e executar o jogo:
 
- Entrar na pasta "MazeGame" 
- Entrar na pasta "Build"
- Executar o arquivo "Shell"
+ 1- Extrair as 04 partes do MazeGame; 
+
+ 2- Entrar na pasta "MazeGame"; 
+
+ 3- Entrar na pasta "Build";
+
+ 4- Executar o arquivo "Shell";
 
  Dentro do jogo há outros quatro jogos disponiveis, o Arkanoid, FlappyBird, Motion Track e Target shooting. O jogo inédito em questão é o "Maze". 
- O jogo é controlado apenas por um controle externo. 
+
+ O jogo "Maze" é controlado apenas por um controle externo. 
