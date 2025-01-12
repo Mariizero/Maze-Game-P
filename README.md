@@ -1,3 +1,27 @@
+This file contains the installation instructions, in English and Portuguese. Esse arquivo contém as instruções de instalação em inglês e português.
+
+--------English-version-----------
+# Maze Game
+
+Welcome to the MAZE Game!
+
+This project was developed to integrate classic games and promote an innovative approach to physiotherapy treatments focused on motor movements. The goal is to increase patient immersion during sessions and improve their adherence to rehabilitation consultations.
+
+The package includes five games controlled by an external controller: Maze (unreleased game), Arkanoid, FlappyBird, Motion Track and Target Shooting. Developed on the Unity platform, the code can be adapted to meet the specific needs of each user, ensuring a personalized experience.
+
+## Step by step for installation and execution:
+- Extract the 4 parts of the MazeGame file.
+- Access the "MazeGame" folder.
+- Enter the "Build" subfolder.
+- Run the "Shell" file to start the game.
+
+## Highlights of the "Maze" Game
+
+The new game "Maze" was designed to be played with an external controller, providing an immersive and interactive experience. The integration of games into physiotherapy treatment offers a fun, motivating and effective environment for patients' motor recovery.
+
+Have fun exploring the MAZE Game and enjoy the variety of games available!
+
+-------Versão-em-Português---------
 # Maze Game
  
 Bem-vindo ao Jogo MAZE! 
